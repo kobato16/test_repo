@@ -5,3 +5,4 @@ def printHello(name):
 printHello(input("Enter your name: "))
 printHello(input("Enter you name: "))
 print("Hello again mudafukka")
+print("Come on")
